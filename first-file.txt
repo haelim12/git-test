@@ -1,0 +1,2 @@
+ssafy 10기 자바 비전공 
+Hello Git
